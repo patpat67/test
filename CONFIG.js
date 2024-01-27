@@ -1,7 +1,7 @@
 const CONFIGDATA = {
-  titleHeader: "Bao Bao I have something important to say. </br> Please be my valentine and go on a dinner date with me <3",
+  titleHeader: "Bao Bao I have something important to say. </br> Please be my valentine pweeease <3",
   descriptionHeader:
-    "你的答案呢！？？？别让我等哦，上一次你已经弄我等了哦。。记得吗？7月2号哈哈哈哈！Give me your answer nowwwwww nowwwwwww nowwww",
+    "baobao你的答案呢！？？？别让我等哦，上一次你已经弄我等了哦。。</br>记得吗？7月2号哈哈哈哈！</br>Give me your answer nowwwwww nowwwwwww nowwww </br> tell meeeeeeee",
   buttonYes: "Yes",
   buttonNo: "No",
   titleModar: "Thank you.",
